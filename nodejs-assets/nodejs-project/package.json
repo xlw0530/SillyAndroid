@@ -1,0 +1,7 @@
+{
+  "name": "silly-android-placeholder",
+  "version": "1.0.0",
+  "description": "Placeholder for initial load",
+  "main": "main.js",
+  "dependencies": {}
+}

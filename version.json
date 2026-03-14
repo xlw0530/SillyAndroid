@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "buildNumber": 2,
+  "changelog": "- 修复了某个 bug\n- 添加了新功能",
+  "fileSize": 52428800,
+  "md5": "可选的MD5校验值"
+}
